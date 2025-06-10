@@ -16,7 +16,7 @@ A graphical version of the classic Tic Tac Toe game built with Python and tkinte
 2. No additional libraries are required—tkinter is included with most Python distributions.
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/beko-o/tic-tac-toe.git
 cd <repo-name>
 ```
 
